@@ -13,5 +13,6 @@ public class Artist {
 	public Long getId() {
 		return id;
 	}
+	
 
 }
